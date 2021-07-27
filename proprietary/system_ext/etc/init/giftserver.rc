@@ -1,5 +1,0 @@
-service giftserver /system_ext/bin/giftserver
-   class main
-   user system
-   group system
-
